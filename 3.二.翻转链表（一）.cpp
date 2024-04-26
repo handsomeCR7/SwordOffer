@@ -19,11 +19,10 @@ public:
         ListNode* cur = head;
         ListNode* after = head->next;
         while (cur != nullptr) {
+            after = cur->next;
             cur->next = pre;
-            after->next = cur;
             pre = cur;
             cur = after;
-            after = cur->next;
         }
         return pre;
     }
