@@ -51,5 +51,23 @@
     <ClCompile Include="12.二.爬楼梯.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="13.二.翻转链表（二）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="14.二.中序遍历和后序遍历树构造二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15.二.寻找旋转排序数组中的最小值 II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="16.二.赋值运算符重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="17.三.合并两个排序链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="18.三.快速幂.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
