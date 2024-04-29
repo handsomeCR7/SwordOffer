@@ -66,7 +66,22 @@
     <ClCompile Include="17.三.合并两个排序链表.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="18.三.快速幂.cpp">
+    <ClCompile Include="21.三.快速幂.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="18.三.删除链表中倒数第 n 个节点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="19.三.在O(1)时间复杂度删除链表节点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="20.三.奇偶分割数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="22.三.子树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="23.三.用递归打印数字.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
